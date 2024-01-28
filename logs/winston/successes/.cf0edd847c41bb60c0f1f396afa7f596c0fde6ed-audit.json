@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/.cf0edd847c41bb60c0f1f396afa7f596c0fde6ed-audit.json",
+    "files": [
+        {
+            "date": 1706371934886,
+            "name": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/phu-2024-27-01-22-success.log",
+            "hash": "157a3a7fc7a03c97ffd67cc25fffa10cd6633fea4311630b204642acf3c773ce"
+        },
+        {
+            "date": 1706374801927,
+            "name": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/phu-2024-27-01-23-success.log",
+            "hash": "fbc9dc1974de9716e28a06d42117375f7ad28a650681c5d2ef9be7c019784a8d"
+        },
+        {
+            "date": 1706378853290,
+            "name": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/phu-2024-28-01-00-success.log",
+            "hash": "4d72ad190e36b4154a8f2842f8992db81a24899e51cf699120a8b05b5f665f53"
+        },
+        {
+            "date": 1706382135112,
+            "name": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/phu-2024-28-01-01-success.log",
+            "hash": "d61d9fc29eb5e1ad59b7254339b74efe56c2fc63d31150c0be925501716ac74c"
+        },
+        {
+            "date": 1706418289609,
+            "name": "/Users/mdyousufsheikh/Desktop/Lavel2/university-management-core-service-starter/logs/winston/successes/phu-2024-28-01-11-success.log",
+            "hash": "da36a22d2011d838ff40db03f50832af76f00f51cea3fa1d5949ab69a0109951"
+        }
+    ],
+    "hashType": "sha256"
+}
